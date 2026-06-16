@@ -1,0 +1,4 @@
+Lavar o carro;true
+Estudar para prova de POO;false
+Estudar para prova de requisitos;false
+Dar comida para o cachorro;true
